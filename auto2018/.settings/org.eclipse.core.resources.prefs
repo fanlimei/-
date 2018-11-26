@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//conf/config.properties=ISO-8859-1
+encoding//data/movie.xlsx=GBK
+encoding//src/com/freemarker/WebTestListener.java=UTF-8
+encoding//src/com/javaxmail/Sendmail.java=UTF-8
+encoding//src/com/javaxmail/ZipCompressor.java=GBK
+encoding//src/com/webtest/core/WebDriverEngine.java=UTF-8
+encoding//src/com/webtest/dataprovider/NSDataProvider.java=GBK

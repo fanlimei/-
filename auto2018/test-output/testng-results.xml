@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="s1" duration-ms="50339" started-at="2018-11-21T07:20:39Z" finished-at="2018-11-21T07:21:29Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="50339" started-at="2018-11-21T07:20:39Z" finished-at="2018-11-21T07:21:29Z">
+      <class name="com.webtest.demo.Front_Login_Test">
+        <test-method status="PASS" signature="doBeforeSuite()[pri:0, instance:com.webtest.demo.Front_Login_Test@bd8db5a]" name="doBeforeSuite" is-config="true" duration-ms="35305" started-at="2018-11-21T07:20:39Z" finished-at="2018-11-21T07:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeSuite -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.webtest.demo.Front_Login_Test@bd8db5a]" name="setup" is-config="true" duration-ms="32" started-at="2018-11-21T07:21:14Z" finished-at="2018-11-21T07:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.webtest.demo.Front_Login_Test@bd8db5a]" name="testLogin" duration-ms="14951" started-at="2018-11-21T07:21:14Z" finished-at="2018-11-21T07:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- com.webtest.demo.Front_Login_Test -->
+    </test> <!-- test1 -->
+  </suite> <!-- s1 -->
+</testng-results>
